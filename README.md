@@ -4,4 +4,4 @@
 
     Aiming to consolidate basic knowledge of javascript.
 
-    ![](images/calculator.PNG)
+    ![](images/calculator.png)
