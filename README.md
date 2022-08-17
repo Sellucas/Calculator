@@ -4,4 +4,4 @@
 
     Aiming to consolidate basic knowledge of javascript.
 
-    ![calculator](https://user-images.githubusercontent.com/75432770/185188426-3b838b0e-f5c0-4119-9d1d-67724d98e703.png)
+    ![calculator](https://user-images.githubusercontent.com/75432770/185188983-d3d30074-7b22-4ac3-9f73-6318508e6a88.png)
