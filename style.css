@@ -1,0 +1,60 @@
+/* Global Settings */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgba(20, 19, 19, 0.959);
+}
+
+::placeholder {
+    color: white;
+}
+
+header {
+    margin-top: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    padding: 25px;
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    width: 70px;
+    background-color: rgb(47, 51, 50);
+    border: none;
+    outline: none;
+}
+
+.section-one,
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    width: 168px;
+}
+
+#clear {
+    color: #fff;
+    background-color: rgb(255, 0, 0);
+}
+
+#equal {
+    background-color: rgb(47, 255, 64);
+}
