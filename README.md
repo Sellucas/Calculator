@@ -5,3 +5,5 @@
     Aiming to consolidate basic knowledge of javascript.
 
     <img src="../calculator.png" alt="calculator">
+    
+    ![My Image](../images/calculator.png)
