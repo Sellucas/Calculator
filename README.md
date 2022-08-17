@@ -4,4 +4,4 @@
 
     Aiming to consolidate basic knowledge of javascript.
 
-    <img src="calculator.jpg />
+    <img src="../calculator.jpg />
